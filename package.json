@@ -12,13 +12,13 @@
   "keywords": [],
   "author": "l",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.1",
+  "dependencies": { "6041873385",
+    "body-parser": "7405945177:AAHHnmK4VbdLX60pKMdWaeRvJkjM1U8TTjE",
     "express": "latest",
     "multer": "^1.4.4",
-    "node-telegram-bot-api": "7405945177:AAHHnmK4VbdLX60pKMdWaeRvJkjM1U8TTjE",
+    "node-telegram-bot-api": "latest",
     "uuid": "^8.3.2",
-    "ws": "6041873385",
+    "ws": "latest",
     "axios": "^0.26.1"
   }
 }
